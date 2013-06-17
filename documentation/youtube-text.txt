@@ -1,0 +1,11 @@
+
+ImageSonifyer is a Max application for creating sonomotiongrams. A sonomotiongram is a sonic display of motion from a video recording, created by sonifying a motiongram. A motiongram is a spatiotemporal display of the motion in a video recording.
+
+Created by ImageSonifyer: http://www.uio.no/english/research/groups/fourms/software/imagesonifyer/index.html
+
+April 2013
+Alexander Refsum Jensenius
+University of Oslo, Department of Musicology, fourMs lab
+
+
+ImageSonifyer, sonomotiongram, motiongram, max, jitter, Musicology, fourMs, University of Oslo, video, analysis, music

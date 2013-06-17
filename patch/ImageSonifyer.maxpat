@@ -7,7 +7,7 @@
 			"revision" : 4
 		}
 ,
-		"rect" : [ 0.0, 44.0, 1024.0, 720.0 ],
+		"rect" : [ 21.0, 44.0, 1024.0, 720.0 ],
 		"bgcolor" : [ 0.98429, 1.0, 0.981892, 1.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
@@ -580,16 +580,16 @@
 ,
 					"patching_rect" : [ 1244.5, 142.25, 69.0, 20.0 ],
 					"saved_object_attributes" : 					{
-						"default_fontname" : "Arial",
-						"fontname" : "Arial",
-						"default_fontsize" : 12.0,
-						"tags" : "",
 						"description" : "",
 						"globalpatchername" : "",
 						"fontface" : 0,
 						"fontsize" : 12.0,
 						"default_fontface" : 0,
-						"digest" : ""
+						"digest" : "",
+						"default_fontname" : "Arial",
+						"fontname" : "Arial",
+						"tags" : "",
+						"default_fontsize" : 12.0
 					}
 ,
 					"text" : "p draw-line"
@@ -879,16 +879,16 @@
 ,
 									"patching_rect" : [ 186.0, 231.25, 71.0, 20.0 ],
 									"saved_object_attributes" : 									{
-										"default_fontname" : "Arial",
-										"fontname" : "Arial",
-										"default_fontsize" : 12.0,
-										"tags" : "",
 										"description" : "",
 										"globalpatchername" : "",
 										"fontface" : 0,
 										"fontsize" : 12.0,
 										"default_fontface" : 0,
-										"digest" : ""
+										"digest" : "",
+										"default_fontname" : "Arial",
+										"fontname" : "Arial",
+										"tags" : "",
+										"default_fontsize" : 12.0
 									}
 ,
 									"text" : "p date-time"
@@ -1202,16 +1202,16 @@
 ,
 					"patching_rect" : [ 1026.0, 340.5, 87.0, 20.0 ],
 					"saved_object_attributes" : 					{
-						"default_fontname" : "Arial",
-						"fontname" : "Arial",
-						"default_fontsize" : 12.0,
-						"tags" : "",
 						"description" : "",
 						"globalpatchername" : "",
 						"fontface" : 0,
 						"fontsize" : 12.0,
 						"default_fontface" : 0,
-						"digest" : ""
+						"digest" : "",
+						"default_fontname" : "Arial",
+						"fontname" : "Arial",
+						"tags" : "",
+						"default_fontsize" : 12.0
 					}
 ,
 					"text" : "p record-video"
@@ -1268,15 +1268,15 @@
 					"patching_rect" : [ 866.5, 617.75, 69.0, 20.0 ],
 					"saved_object_attributes" : 					{
 						"allwindowsactive" : 0,
-						"midisupport" : 0,
-						"preffilename" : "ImageSonifyer Preferences",
-						"noloadbangdefeating" : 0,
-						"statusvisible" : 0,
-						"audiosupport" : 1,
-						"extensions" : 1,
-						"database" : 0,
-						"usesearchpath" : 0,
 						"searchformissingfiles" : 0,
+						"extensions" : 1,
+						"noloadbangdefeating" : 0,
+						"preffilename" : "ImageSonifyer Preferences",
+						"database" : 0,
+						"midisupport" : 0,
+						"statusvisible" : 0,
+						"usesearchpath" : 0,
+						"audiosupport" : 1,
 						"overdrive" : 1,
 						"cantclosetoplevelpatchers" : 0
 					}
@@ -1660,16 +1660,16 @@
 ,
 					"patching_rect" : [ 943.4104, 710.75, 61.0, 20.0 ],
 					"saved_object_attributes" : 					{
-						"default_fontname" : "Arial",
-						"fontname" : "Arial",
-						"default_fontsize" : 12.0,
-						"tags" : "",
 						"description" : "",
 						"globalpatchername" : "",
 						"fontface" : 0,
 						"fontsize" : 12.0,
 						"default_fontface" : 0,
-						"digest" : ""
+						"digest" : "",
+						"default_fontname" : "Arial",
+						"fontname" : "Arial",
+						"tags" : "",
+						"default_fontsize" : 12.0
 					}
 ,
 					"text" : "p readme"
@@ -1733,7 +1733,7 @@
 							"revision" : 4
 						}
 ,
-						"rect" : [ 25.0, 69.0, 619.0, 452.0 ],
+						"rect" : [ 698.0, 74.0, 619.0, 452.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -1912,7 +1912,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 278.9104, 195.25, 62.0, 20.0 ],
-									"text" : "clip 0 640"
+									"text" : "clip 0 943"
 								}
 
 							}
@@ -1953,7 +1953,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "float" ],
 									"patching_rect" : [ 278.9104, 221.25, 41.0, 20.0 ],
-									"text" : "/ 640."
+									"text" : "/ 943."
 								}
 
 							}
@@ -2210,16 +2210,16 @@
 ,
 					"patching_rect" : [ 166.4104, 698.0, 83.0, 20.0 ],
 					"saved_object_attributes" : 					{
-						"default_fontname" : "Arial",
-						"fontname" : "Arial",
-						"default_fontsize" : 12.0,
-						"tags" : "",
 						"description" : "",
 						"globalpatchername" : "",
 						"fontface" : 0,
 						"fontsize" : 12.0,
 						"default_fontface" : 0,
-						"digest" : ""
+						"digest" : "",
+						"default_fontname" : "Arial",
+						"fontname" : "Arial",
+						"tags" : "",
+						"default_fontsize" : 12.0
 					}
 ,
 					"text" : "p mouse-stuff"
@@ -2649,16 +2649,16 @@
 ,
 					"patching_rect" : [ 481.9104, 60.25, 69.0, 20.0 ],
 					"saved_object_attributes" : 					{
-						"default_fontname" : "Arial",
-						"fontname" : "Arial",
-						"default_fontsize" : 12.0,
-						"tags" : "",
 						"description" : "",
 						"globalpatchername" : "",
 						"fontface" : 0,
 						"fontsize" : 12.0,
 						"default_fontface" : 0,
-						"digest" : ""
+						"digest" : "",
+						"default_fontname" : "Arial",
+						"fontname" : "Arial",
+						"tags" : "",
+						"default_fontsize" : 12.0
 					}
 ,
 					"text" : "p find-time"
@@ -3138,16 +3138,16 @@
 ,
 					"patching_rect" : [ 774.5896, 226.75, 50.0, 20.0 ],
 					"saved_object_attributes" : 					{
-						"default_fontname" : "Arial",
-						"fontname" : "Arial",
-						"default_fontsize" : 12.0,
-						"tags" : "",
 						"description" : "",
 						"globalpatchername" : "",
 						"fontface" : 0,
 						"fontsize" : 12.0,
 						"default_fontface" : 0,
-						"digest" : ""
+						"digest" : "",
+						"default_fontname" : "Arial",
+						"fontname" : "Arial",
+						"tags" : "",
+						"default_fontsize" : 12.0
 					}
 ,
 					"text" : "p xfade"
@@ -3514,16 +3514,16 @@
 ,
 					"patching_rect" : [ 44.4104, 448.0, 135.0, 20.0 ],
 					"saved_object_attributes" : 					{
-						"default_fontname" : "Arial",
-						"fontname" : "Arial",
-						"default_fontsize" : 12.0,
-						"tags" : "",
 						"description" : "",
 						"globalpatchername" : "",
 						"fontface" : 0,
 						"fontsize" : 12.0,
 						"default_fontface" : 0,
-						"digest" : ""
+						"digest" : "",
+						"default_fontname" : "Arial",
+						"fontname" : "Arial",
+						"tags" : "",
+						"default_fontsize" : 12.0
 					}
 ,
 					"text" : "p colour-mode"
@@ -3827,16 +3827,16 @@
 ,
 					"patching_rect" : [ 50.4104, 100.5, 82.0, 20.0 ],
 					"saved_object_attributes" : 					{
-						"default_fontname" : "Arial",
-						"fontname" : "Arial",
-						"default_fontsize" : 12.0,
-						"tags" : "",
 						"description" : "",
 						"globalpatchername" : "",
 						"fontface" : 0,
 						"fontsize" : 12.0,
 						"default_fontface" : 0,
-						"digest" : ""
+						"digest" : "",
+						"default_fontname" : "Arial",
+						"fontname" : "Arial",
+						"tags" : "",
+						"default_fontsize" : 12.0
 					}
 ,
 					"text" : "p open-file"
@@ -4046,16 +4046,16 @@
 ,
 					"patching_rect" : [ 166.4104, 325.25, 120.0, 20.0 ],
 					"saved_object_attributes" : 					{
-						"default_fontname" : "Arial",
-						"fontname" : "Arial",
-						"default_fontsize" : 12.0,
-						"tags" : "",
 						"description" : "",
 						"globalpatchername" : "",
 						"fontface" : 0,
 						"fontsize" : 12.0,
 						"default_fontface" : 0,
-						"digest" : ""
+						"digest" : "",
+						"default_fontname" : "Arial",
+						"fontname" : "Arial",
+						"tags" : "",
+						"default_fontsize" : 12.0
 					}
 ,
 					"text" : "p getmovieinfo"
@@ -4303,16 +4303,16 @@
 ,
 					"patching_rect" : [ 44.4104, 380.5, 105.0, 20.0 ],
 					"saved_object_attributes" : 					{
-						"default_fontname" : "Arial",
-						"fontname" : "Arial",
-						"default_fontsize" : 12.0,
-						"tags" : "",
 						"description" : "",
 						"globalpatchername" : "",
 						"fontface" : 0,
 						"fontsize" : 12.0,
 						"default_fontface" : 0,
-						"digest" : ""
+						"digest" : "",
+						"default_fontname" : "Arial",
+						"fontname" : "Arial",
+						"tags" : "",
+						"default_fontsize" : 12.0
 					}
 ,
 					"text" : "p image-inversion"
@@ -4722,16 +4722,16 @@
 ,
 									"patching_rect" : [ 202.4104, 280.0, 95.0, 20.0 ],
 									"saved_object_attributes" : 									{
-										"default_fontname" : "Arial",
-										"fontname" : "Arial",
-										"default_fontsize" : 12.0,
-										"tags" : "",
 										"description" : "",
 										"globalpatchername" : "",
 										"fontface" : 0,
 										"fontsize" : 12.0,
 										"default_fontface" : 0,
-										"digest" : ""
+										"digest" : "",
+										"default_fontname" : "Arial",
+										"fontname" : "Arial",
+										"tags" : "",
+										"default_fontsize" : 12.0
 									}
 ,
 									"text" : "p set-slider-size"
@@ -4884,7 +4884,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 186.4104, 179.5, 142.0, 18.0 ],
-									"text" : "0, 1500 10000"
+									"text" : "0, 11069 10000"
 								}
 
 							}
@@ -5234,16 +5234,16 @@
 ,
 					"patching_rect" : [ 495.4104, 178.75, 128.0, 20.0 ],
 					"saved_object_attributes" : 					{
-						"default_fontname" : "Arial",
-						"fontname" : "Arial",
-						"default_fontsize" : 12.0,
-						"tags" : "",
 						"description" : "",
 						"globalpatchername" : "",
 						"fontface" : 0,
 						"fontsize" : 12.0,
 						"default_fontface" : 0,
-						"digest" : ""
+						"digest" : "",
+						"default_fontname" : "Arial",
+						"fontname" : "Arial",
+						"tags" : "",
+						"default_fontsize" : 12.0
 					}
 ,
 					"text" : "p create-playback-line"
@@ -5397,7 +5397,7 @@
 					"patching_rect" : [ 50.4104, 136.0, 165.0, 73.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 21.4104, 76.5, 943.0, 18.0 ],
-					"text" : "\"Macintosh HD:/Users/alexanje/Development/SMA/Max/Standalone/ImageSonifyer/images/motiongrams/clarinet-vicon.jpg\""
+					"text" : "\"Macintosh HD:/Users/alexanje/Development/GitHub/ImageSonifyer/images/motiongrams/guitar-hispeed.tiff\""
 				}
 
 			}
@@ -5561,7 +5561,7 @@
 					"patching_rect" : [ 495.4104, 219.25, 115.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 21.4104, 597.0, 943.0, 31.0 ],
-					"size" : 1500.0
+					"size" : 11069.0
 				}
 
 			}
@@ -6326,7 +6326,7 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "audio_buffer.maxpat",
-				"bootpath" : "/Users/alexanje/Development/SMA/Max/Standalone/ImageSonifyer/patch",
+				"bootpath" : "/Users/alexanje/Development/GitHub/ImageSonifyer/patch",
 				"patcherrelativepath" : "",
 				"type" : "JSON",
 				"implicit" : 1
@@ -6334,14 +6334,14 @@
 , 			{
 				"name" : "jcom.rgb2luma%.maxpat",
 				"bootpath" : "/Applications/Max6/Cycling '74/Jamoma/library/components/rgb2luma%",
-				"patcherrelativepath" : "../../../../../../../../Applications/Max6/Cycling '74/Jamoma/library/components/rgb2luma%",
+				"patcherrelativepath" : "../../../../../../Applications/Max6/Cycling '74/Jamoma/library/components/rgb2luma%",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jcom.datetime.maxpat",
 				"bootpath" : "/Applications/Max6/Cycling '74/Jamoma/library/components/datetime",
-				"patcherrelativepath" : "../../../../../../../../Applications/Max6/Cycling '74/Jamoma/library/components/datetime",
+				"patcherrelativepath" : "../../../../../../Applications/Max6/Cycling '74/Jamoma/library/components/datetime",
 				"type" : "JSON",
 				"implicit" : 1
 			}
