@@ -8,6 +8,8 @@ Modified date: 2013-04-18
 
 ImageSonifyer plays sound from images. This is done by reading through the image from left to right, and carry out an inverse FFT on the data. This means that information in the lower part of the image will be in the lower frequency register, and vice versa. Any type of image will work, but the program was originally developed for sonifying motiongrams. Motiongrams are spatiotemporal representation of motion, created from video recordings.
 
+![ImageSonifyer screenshot](https://raw.github.com/alexarje/ImageSonifyer/master/documentation/ImageSonifyer.png)
+
 ## Usage 
 
 Open patch, select camera, click-drag to crop image, press escape to go fullscreen. 
@@ -32,4 +34,5 @@ http://www.gnu.org/copyleft/gpl.html
 
 ## History 
 
-v0.1: First working version
+v0.2: Minor updates   
+v0.1: First working version  
